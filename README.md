@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Bhavana Munagapati</h1>
 <h3 align="center">B.Tech CSE Student | Full-Stack Web Developer | ServiceNow Enthusiast Driving Digital Workflows</h3>
 
+
+<h2>👩‍💻 About Me</h2>
+
+<p>
+Hi there! I’m Bhavana, an undergraduate student specializing in Computer Science and Engineering. I’m passionate about technology and constantly eager to expand my skill set.
+I’m proficient in programming languages such as C, Python, and Java, and have hands-on experience in web development, where I enjoy crafting user-centric designs that deliver meaningful experiences.<br>
+My growing interest in ServiceNow drives me to explore how workflow automation can create smarter, more efficient solutions for the future. I thrive in dynamic environments, love solving real-world problems through technology, and am always excited to connect with like-minded individuals who share the same passion.<br>
+My journey began with curiosity — and quickly evolved into purpose. Today, I’m diving deep into front-end development, exploring AI/ML, and mastering tools like ServiceNow to build intelligent, scalable solutions.<br>
+
+🚀 Currently focused on: <br>
+• Exploring ServiceNow for workflow automation <br>
+• Building intuitive and accessible web applications <br>
+• Leveraging AI/ML to bring systems to life <br>
+
+Passionate about learning and collaboration, I welcome connections with those who want to make a real impact through technology. Let’s inspire and empower each other to build something extraordinary.<br>
+Technology is most powerful when shared. If you’re driven by purpose and innovation, let’s connect and collaborate to bring ideas to life and make a lasting impact.<br>
+</p>
+
+
 - 🌱 Currently learning **ServiceNow development and workflow automation**
 - 👩‍💻 Explore all my projects at: [github.com/MunagapatiBhavana](https://github.com/MunagapatiBhavana)
 - 💬 Ask me about:  
@@ -17,6 +36,48 @@
 </p>
 
 ---
+
+---
+
+<h2>💼 Experience</h2>
+
+<ul>
+  <li>
+    <strong>Web Development Intern</strong> – <i>GeoSensing and Imaging Consultancy, Trivandrum, Kerala</i> (Remote)<br>
+    <span>During my internship at GEOSI, I designed and developed a dynamic payment gateway page that ensures safe and secure transactions. This feature played a crucial role in integrating seamless payment functionality into the company’s real-world application, significantly enhancing its overall user experience and reliability.<br><br></span>
+  </li>
+
+ 
+  <li>
+    <strong>Mentee</strong> – <i>Mentor Together Training program</i><br>
+    <span>Selected as a mentee in the Mentor Together program, focused on developing technical and professional skills through structured mentorship and project-based learning.
+As part of the program, I worked on a real-world data science project involving policyholder prediction for an insurance company.
+     The goal was to analyze customer data and build a predictive model to identify potential policyholders based on behavior and demographic attributes.<br>
+
+This experience deepened my understanding of real-world AI applications and helped sharpen my ability to turn data into actionable insights. It also strengthened my communication, time management, and collaborative problem-solving skills through ongoing mentorship and feedback under the guidance of industrial expert @A.V. Sridhar Sir from Hyderabad and Mentor To Go coordinator @Shwetha ma'am.<br><br></span>
+  </li>
+
+  
+  <li>
+    <strong>Front-End Developer Intern</strong> – <i>Exposys Data Labs</i><br>
+    <span>I have designed and developed a project on Mass Mail Dispatcher using HTML,CSS and Javascript during my internship at Exposys Data Labs.<br><br></span>
+  </li>
+
+  
+  <li>
+    <strong>UI/UX Designer</strong> – <i>Great Learning</i><br>
+    <span>Designed and developed user-friendly interfaces for various web applications using HTML, CSS, and JavaScript.<br>
+        Created wireframes, prototypes, and high-fidelity designs using Figma and Adobe XD.<br>
+        Implemented responsive designs and ensured cross-browser compatibility <br><br></span>
+  </li>
+</ul>
+
+---
+<h2>💼 Projects</h2>
+
+<ul>
+ 
+</ul>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -76,7 +137,7 @@
 - 🌐 Built and deployed multiple web applications
 - 🧠 Passionate about ServiceNow Development and Digital Workflows
 - 🧩 Achieved a SGPA of 9.96 in the 4th semester of BTech at GITAM University.
-- 🎙️ Student Ambassador at GITAM University 
+- 🎙️ Student Ambassador at GITAM University [https://buddy.univiser.io/profile]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MunagapatiBhavana&layout=compact&theme=tokyonight" alt="Top Languages" />
