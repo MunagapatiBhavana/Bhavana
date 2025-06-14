@@ -122,6 +122,7 @@ This experience deepened my understanding of real-world AI applications and help
 <h3 align="left">📜 Certifications:</h3>
 
 - ✅ ServiceNow Certified System Administrator – [ServiceNow]
+- ✅ ServiceNow Certified Application Developer – [ServiceNow]
 - ✅ Introduction to C Programming - [NPTEL]
 - ✅ Tech Camp on Google Android - [EduSkills]
 - ✅ Introduction to web developement with HTML,CSS and Javascript - [IBM]
